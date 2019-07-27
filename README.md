@@ -27,6 +27,7 @@ DOOM Themes is an opinionated UI plugin and pack of themes extracted from my
   - Additional themes
     - [X] `doom-city-lights` (thanks to [fuxialexander])
     - [X] `doom-dracula` (thanks to [fuxialexander])
+    - [X] `doom-gruvbox`: adapted from Mohretz's [Gruvbox][gruvbox] (thanks to [JongW])
     - [X] `doom-Iosvkem`: adapted from [Iosvkem][Iosvkem] (thanks to [neutaaaaan])
     - [X] `doom-molokai`: based on Textmate's monokai
     - [X] `doom-nord` (thanks to [fuxialexander])
@@ -35,6 +36,7 @@ DOOM Themes is an opinionated UI plugin and pack of themes extracted from my
     - [X] `doom-opera-light` (thanks to [jwintz])
     - [X] `doom-nova`: adapted from [Nova] (thanks to [bigardone])
     - [X] `doom-peacock`: based on Peacock from [daylerees' themes][daylerees] (thanks to [teesloane])
+    - [X] `doom-solarized-dark`: dark variant of [Solarized][solarized] (thanks to [ema2159])
     - [X] `doom-solarized-light`: light variant of [Solarized][solarized] (thanks to [fuxialexander])
     - [X] `doom-sourcerer`: based on [Sourcerer][sourcerer] (thanks to [defphil])
     - [X] `doom-spacegrey`: [I'm sure you've heard of it][spacegrey] (thanks to [teesloane])
@@ -141,12 +143,16 @@ pointers. Additional theme and plugin support requests are welcome too.
 [bigardone]: https://github.com/bigardone
 [daylerees]: http://daylerees.github.io/
 [defphil]: https://github.com/defphil
+[ema2159]: https://github.com/ema2159
 [emacs.d]: https://github.com/hlissner/.emacs.d
 [emacswatcher]: https://github.com/emacswatcher
 [fuxialexander]: https://github.com/fuxialexander
+[gruvbox]: https://github.com/morhetz/gruvbox
 [hlinum]: https://melpa.org/#/hlinum
 [issues]: https://github.com/hlissner/emacs-doom-themes/issues
 [Iosvkem]: https://github.com/neutaaaaan/iosvkem
+[jwintz]: https://github.com/jwintz
+[JongW]: https://github.com/JongW
 [mode-line]: https://github.com/hlissner/.emacs.d/blob/master/modules/ui/doom-modeline/config.el
 [neotree]: https://github.com/jaypei/emacs-neotree
 [nlinum-hl]: https://github.com/hlissner/emacs-nlinum-hl
